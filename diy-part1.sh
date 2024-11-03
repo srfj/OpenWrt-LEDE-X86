@@ -10,9 +10,6 @@
 # See /LICENSE for more information.
 #
 
-# Modify default IP
-sed -i 's/192.168.1.1/192.168.1.56/g' package/base-files/files/bin/config_generate
-
 # 添加软件包
 git clone https://github.com/srfj/luci-app-mwan3helper-chinaroute package/luci-app-mwan3helper-chinaroute
 git clone https://github.com/xiaorouji/openwrt-passwall-packages package/openwrt-passwall
