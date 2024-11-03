@@ -11,6 +11,7 @@
 #
 
 # 添加软件包
-git clone https://github.com/srfj/luci-app-mwan3helper-chinaroute package/luci-app-mwan3helper-chinaroute
-git clone https://github.com/xiaorouji/openwrt-passwall-packages package/openwrt-passwall
-git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
+#git clone https://github.com/srfj/luci-app-mwan3helper-chinaroute package/luci-app-mwan3helper-chinaroute
+#git clone https://github.com/xiaorouji/openwrt-passwall-packages package/openwrt-passwall
+#git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
+git clone https://github.com/haiibo/openwrt-packages package/openwrt-packages
